@@ -1,4 +1,4 @@
-# handwritten-recoginition-using-tensorflow
+# handwriting-recoginition-using-tensorflow
 
 # Project Structure
 
